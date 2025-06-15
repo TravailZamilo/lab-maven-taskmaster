@@ -1,0 +1,35 @@
+.root {
+    -fx-background-color: #e0f7fa;
+    -fx-padding: 15;
+}
+
+.label {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #006064;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-padding: 8 16 8 16;
+    -fx-background-radius: 8;
+}
+
+.add-button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+.test-button {
+    -fx-background-color: #2196F3;
+    -fx-text-fill: white;
+}
+
+.text-area {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #b2ebf2;
+}
+
+.list-view {
+    -fx-border-color: #80deea;
+}
